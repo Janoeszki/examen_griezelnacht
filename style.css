@@ -1,0 +1,81 @@
+/* Hertsellen van waarden over gehele HTML-document */
+*, *::before, *::after {
+	box-sizing: border-box;
+}
+
+body {
+    /* Geeft body iets meer ruimte */
+    line-height: 1.5;
+    
+    /* vaste waarde voor font over body geven */
+    font-size: 1rem;
+
+}
+
+.nav {
+    justify-content: space-between;
+}
+
+    /* instellen van font over h1-h3 */
+h1, h2, h3 {
+    font-size: 2.5rem;
+    font-family: "Mystery Quest", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 50px;
+}
+
+h4, h5, h6 {
+    font-family: "Mystery Quest", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.main-card {
+background-color: transparent;
+
+}
+
+.title {font-size: 1rem;}
+
+h2 {
+    font-size: 6rem;
+}
+
+.footer {
+    margin-left: 10px;
+}
+
+/* instellen van een kleinere title */
+.nacht {
+    color: orange;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+.koop-btn {
+    background-color: orange;
+    border-color: orange;
+    border-radius: 10px;
+    color: black;
+    font-weight: bold;
+}
+
+.empty-btn {
+    background-color: transparent;
+}
+
+/* instellen width & breedte achtergrondfoto */
+.background-image {
+    height:auto;
+    width:auto;
+}
+
+/* instellen footer items & border */
+.footer-rights {
+    display: flex;
+    justify-content: space-evenly;
+    border-top: 2px solid rgb(97, 93, 93);
+}
