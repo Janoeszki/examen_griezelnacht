@@ -13,6 +13,9 @@ U kunt AI-hulpprogramma's gebruiken, maar u bent nog steeds verantwoordelijk voo
 
 
 ## Referentiemateriaal
+<img src="Examen_fundamentals_&_tooling (1)_page-0001.jpg" alt="Examen fundamentals & Tooling" width="50" height="50">
+
+
 ## Feedback
-*Heel erg bedankt voor je inzet Wesley, op vlak van databanken en theorie heb je echt geschitterd! Zeer zeer compleet! Voor CSS gaan we samen nog even naar je CSS-variabelen, achtergronden en Flexbox-layout kijken, want zodra dat klikt ga je ook daar grote sprongen maken! 3NF normalisatie was ook top...*
+*"Heel erg bedankt voor je inzet Wesley, op vlak van databanken en theorie heb je echt geschitterd! Zeer zeer compleet! Voor CSS gaan we samen nog even naar je CSS-variabelen, achtergronden en Flexbox-layout kijken, want zodra dat klikt ga je ook daar grote sprongen maken! 3NF normalisatie was ook top..."*
     **Docent SyntraPXL, De Nittis M.**
