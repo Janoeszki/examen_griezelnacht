@@ -36,12 +36,22 @@ Volg onderstaande link om naar de webpagina te gaan!
 * Webpagina recreatie
     * Globale scan: Wat zie ik?
         * Navbar - Logo & Branding, subpages, knop
+        
         * Hero - Datum- en locatiebepaling, Titel (in twee verschillende kleuren), beschrijving, Ticket & Programma buttons, extra info
             * Nacht background, Kasteel, pompoen, spook en vleermuizen images
+        
         * Newsbrief Section - Spook image, melding, inputfield (email) en inschrijvingsknop
+        
         * Footer - Logo, locatie, opdeling in *grid*:
             * Bezoek, Praktisch, Volg Ons
-
+    
+    * Bootstrap integratie & windowshopping (images)
+        * Zoektocht naar geschikte images (Background, ghost en pumpkin)
+        * Bootstrap componenten zoeken om webpagina skelet op te bouwen:
+            * Navbar
+            * Cards (openingsuren, leeftijdbepaling, Zones & Attracties, Spookpost)
+            * Inputfield (Spookpost)
+            * Grid (Footer)
 
 ## Feedback
 *"Heel erg bedankt voor je inzet Wesley, op vlak van databanken en theorie heb je echt geschitterd! Zeer zeer compleet! Voor CSS gaan we samen nog even naar je CSS-variabelen, achtergronden en Flexbox-layout kijken, want zodra dat klikt ga je ook daar grote sprongen maken! 3NF normalisatie was ook top..."*
