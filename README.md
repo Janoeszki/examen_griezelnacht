@@ -18,7 +18,11 @@ U kunt AI-hulpprogramma's gebruiken, maar u bent nog steeds verantwoordelijk voo
 ## Referentiemateriaal
 <img src="Examen_fundamentals_&_tooling (1)_page-0001.jpg" alt="Examen fundamentals & Tooling">
 
-## Normalisatie Oefening
+## Afgeleverde Examenonderdelen
+### Halloween inschrijvingswebpagina
+Volg onderstaande link om naar de webpagina te gaan!
+* https://janoeszki.github.io/examen_griezelnacht/
+### Normalisatie Oefening
 <img src="vaesWesley_normalisatie_examen.jpg" alt="Normalisatie Oefening in Excel">
 
 ## Feedback
