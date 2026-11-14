@@ -1,6 +1,9 @@
 # Examen Fundamentals & tooling
 26/10/2026, 12:45-16:00
 
+## **Punten**
+83 / 100
+
 ## Instructies
 Los op en dien in...good luck
 
